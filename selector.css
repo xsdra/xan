@@ -1,0 +1,11 @@
+*{
+    margin: 0
+
+}
+p,h1,h2{
+    color:aquamarine
+
+}
+p+h2{
+    color: blueviolet;
+}
